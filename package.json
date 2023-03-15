@@ -39,10 +39,10 @@
   "devDependencies": {
     "husky": "^8.0.3"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm test"
-    }
+
+  "hooks": {
+    "pre-commit": "npm test"
   }
+
   
 }
