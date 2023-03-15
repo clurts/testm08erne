@@ -5,7 +5,7 @@ const Navigation = () => {
                 <li><a href="#">Contact</a></li>
                 <li><a href="#">About</a></li>
             </menu>
-            <li><a href="#">Terms and Conditions</a></li>
+            <li><a href="#">Terms & Conditions</a></li>
         </nav>
      );
 }
