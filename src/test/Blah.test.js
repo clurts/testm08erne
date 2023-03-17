@@ -5,7 +5,7 @@ import { RouterProvider, createMemoryRouter } from "react-router-dom";
 describe("Blah component", () => {
     afterEach(cleanup)
 
-    it("test test test", async () => {
+    it("renders the user 'Svampebob Firkant'", async () => {
         const FAKE_USERS = [
             {
                 id: 1,
@@ -35,4 +35,4 @@ describe("Blah component", () => {
 
     })
 
-})
+    })
